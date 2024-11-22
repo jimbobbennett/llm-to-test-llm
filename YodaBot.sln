@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YodaBot", "YodaBot\YodaBot.csproj", "{4F367314-E451-4A91-9A66-BB2D92357BF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YodaBot.Tests", "YodaBot.Tests\YodaBot.Tests.csproj", "{A0769699-560F-4EC3-8243-0FC364DCFCF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F367314-E451-4A91-9A66-BB2D92357BF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F367314-E451-4A91-9A66-BB2D92357BF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F367314-E451-4A91-9A66-BB2D92357BF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F367314-E451-4A91-9A66-BB2D92357BF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0769699-560F-4EC3-8243-0FC364DCFCF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0769699-560F-4EC3-8243-0FC364DCFCF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0769699-560F-4EC3-8243-0FC364DCFCF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0769699-560F-4EC3-8243-0FC364DCFCF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9670603-7CCE-4381-A192-1454B05BB4C7}
+	EndGlobalSection
+EndGlobal
